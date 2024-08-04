@@ -6,7 +6,7 @@
  * @version 1.0.1
  * @description Kv适配器
  * @adapter true
- * @public false
+ * @public true
  * @disable false
  * @priority 2
  * @Copyright ©2024 womian. All rights reserved
